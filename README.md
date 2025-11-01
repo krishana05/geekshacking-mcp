@@ -1,0 +1,1 @@
+This project is created using python fastMCP to build a todo mcp server.
